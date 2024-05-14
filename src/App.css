@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  margin-top: 80px;
+  margin-left: 520px;
+  max-width: 450px;
+}
+
+h1 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  border: 0 solid rgb(7, 7, 7);
+  background-color:#3fa405;
+  color: rgb(241, 240, 240);
+}
+
